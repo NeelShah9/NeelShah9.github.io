@@ -1,0 +1,10 @@
+yarn.lock
+.env
+build/Release
+node_modules
+public/dist/
+dist/
+.DS_Store
+.firebaserc
+firebase.json
+.firebase
