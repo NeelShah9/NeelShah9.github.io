@@ -1,5 +1,5 @@
 {
-    "name": "personal-site",
+    "name": "Portfolio",
     "homepage": "https://github.com/NeelShah9/NeelShah9.github.io",
     "version": "1.0.1",
     "private": true,
@@ -45,7 +45,6 @@
         "dotenv": "^8.2.0",
         "express": "^4.17.1",
         "file-loader": "^4.3.0",
-        "gh-pages": "^2.2.0",
         "html-minify-loader": "^1.4.0",
         "html-webpack-plugin": "^3.2.0",
         "mini-css-extract-plugin": "^0.8.2",
@@ -86,6 +85,7 @@
         "eslint-plugin-mocha": "^6.3.0",
         "eslint-plugin-react": "^7.22.0",
         "eslint-plugin-react-hooks": "^2.5.1",
+        "gh-pages": "^2.2.0",
         "mocha": "^6.2.3",
         "puppeteer": "^1.20.0"
     }

@@ -1,18 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app",
     "\\app\\components",
     "\\app\\components\\Template",
+    "\\app\\data",
+    "\\app\\data\\resume",
     "\\app\\layouts",
     "\\app\\static",
     "\\app\\static\\css",
-    "\\public",
     "\\public\\images",
     "\\public\\images\\favicon",
-    "\\server",
     "\\server\\views"
   ],
-  "SelectedNode": "\\server\\views\\index.tpl.html",
+  "SelectedNode": "\\server",
   "PreviewInSolutionExplorer": false
 }
