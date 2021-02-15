@@ -1,17 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\app\\components",
-    "\\app\\components\\Template",
-    "\\app\\data",
-    "\\app\\data\\resume",
-    "\\app\\layouts",
-    "\\app\\static",
-    "\\app\\static\\css",
-    "\\public\\images",
-    "\\public\\images\\favicon",
-    "\\server\\views"
+    ""
   ],
-  "SelectedNode": "\\server",
+  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }
